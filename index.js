@@ -26,7 +26,7 @@ const solarSystem = [
   solarSystem.push({name: "Pluto", ringSystem: true, moons: ["Charon"]});
   
   // 5. Add a new key-value pair to the the Earth object: the key should be 'diameter', and the value should be Earth's diameter in miles represented as a string.
-  solarSystem[2].diameter = "7926";
+  solarSystem[2].diameter = "7917.5";
   
   // 6. Change Mercury's ringSystem boolean to true.
   solarSystem[0].ringSystem = true;
